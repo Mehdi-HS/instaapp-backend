@@ -1,1 +1,1 @@
-<?php echo "hellooo";
+<?php print_r($_GET);
